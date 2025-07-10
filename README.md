@@ -45,12 +45,12 @@ Before running ReconCraft, ensure the following tools are installed and availabl
 Make the script executable and run it against your target domain:
 
 ```bash
-chmod +x recon.sh
-./recon.sh example.com
+chmod +x Reconcraft.sh
+./Reconcraft.sh example.com
 
 ##Help and version info:
 
  
-./recon.sh -h       # Show help message
-./recon.sh --help   # Show help message
-./recon.sh -v       # Show version
+./Reconcraft.sh -h       # Show help message
+./Reconcraft.sh --help   # Show help message
+./Reconcraft.sh -v       # Show version
