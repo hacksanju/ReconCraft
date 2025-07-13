@@ -40,6 +40,14 @@ Before running ReconCraft, ensure the following tools are installed and availabl
 
 ---
 
+
+This Tool Tested On :
+
+Kali Linux
+Windows(WSL)
+Ubuntu
+
+
 ## 🚀 Usage
 
 Make the script executable and run it against your target domain:
