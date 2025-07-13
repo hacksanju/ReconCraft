@@ -41,11 +41,11 @@ Before running ReconCraft, ensure the following tools are installed and availabl
 ---
 
 
-This Tool Tested On :
+##This Tool Tested On :
 
-Kali Linux
-Windows(WSL)
-Ubuntu
+> Kali Linux
+> Windows(WSL)
+> Ubuntu
 
 
 ## 🚀 Usage
